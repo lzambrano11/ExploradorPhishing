@@ -69,6 +69,7 @@ public class ExploradorPhishing {
             for (String keyword : PalabraClave.keySet()) {
                 int occurrences = text.toString().split(keyword).length - 1;
                 totalPoints += PalabraClave.get(keyword) * occurrences;
+                
                 System.out.println(keyword + " - " + occurrences + " - " + PalabraClave.get(keyword) * occurrences);
             }
         }
