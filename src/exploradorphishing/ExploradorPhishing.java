@@ -20,6 +20,7 @@ public class ExploradorPhishing {
     static {
         PalabraClave.put("banco", 3);
         PalabraClave.put("tarjeta de crédito", 3);
+        PalabraClave.put("tarjeta de debito", 3);
         PalabraClave.put("número de cuenta", 3);
         PalabraClave.put("número de seguridad social", 3);
         PalabraClave.put("contraseña", 3);
@@ -27,6 +28,7 @@ public class ExploradorPhishing {
         PalabraClave.put("actualización de software", 2);
         PalabraClave.put("factura pendiente", 2);
         PalabraClave.put("ganador del premio", 2);
+         PalabraClave.put("bono", 2);
         PalabraClave.put("urgente", 2);
         PalabraClave.put("importante", 2);
         PalabraClave.put("cerrar su cuenta", 2);
@@ -40,8 +42,12 @@ public class ExploradorPhishing {
         PalabraClave.put("su cuenta ha sido vulnerada", 2);
         PalabraClave.put("su cuenta ha sido comprometida", 2);
         PalabraClave.put("su cuenta ha sido comprometida", 2);
-        PalabraClave.put("su cuenta ha sido comprometida", 2);
-        PalabraClave.put("su cuenta ha sido comprometida", 2);
+        PalabraClave.put("Bank of America", 2);
+        PalabraClave.put("Amazon", 2);
+        PalabraClave.put("Apple", 2);
+        PalabraClave.put("Chase", 2);
+        PalabraClave.put("PayPal", 2);
+        PalabraClave.put("Microsoft", 2);
     }
     public static void main(String[] args) throws IOException {
        // Ruta del archivo de texto a analizar
