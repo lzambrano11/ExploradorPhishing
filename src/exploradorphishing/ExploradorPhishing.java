@@ -50,13 +50,13 @@ public class ExploradorPhishing {
         PalabraClave.put("Microsoft", 2);
     }
     public static void main(String[] args) throws IOException {
-       // Ruta del archivo de texto a analizar
+       // Ruta del archivo de texto que se va analizar
         String filePath = "src/exploradorphishing/MiArchivo.txt";
 
         // Iniciando el contador de puntos
         int totalPoints = 0;
 
-        // Leer el archivo de texto
+        // Lectura del archivo de texto
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
             StringBuilder text = new StringBuilder();
