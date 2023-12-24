@@ -75,7 +75,7 @@ public class ExploradorPhishing {
             }
         }
 
-        // Impresión del total de puntos
+        // Impresión del total de puntos acumulados
         System.out.println("Total de Puntos: " + totalPoints); 
         
     
