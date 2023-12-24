@@ -1,0 +1,8 @@
+Estimado cliente,
+Somos el departamento de seguridad de su banco. Hemos detectado actividad sospechosa en su cuenta bancaria. Es crucial que verifique su información de inmediato para evitar el bloqueo de su cuenta. Haga clic en el siguiente enlace para iniciar sesión y verificar sus datos: www.bancoseguro.com/verificacion
+Además, ¡usted ha sido seleccionado como ganador de un gran premio! Para reclamar su premio, por favor, proporcione su número de tarjeta de crédito y complete el formulario adjunto. Esta oferta es válida solo por un tiempo limitado.
+Tenga en cuenta que tiene una factura pendiente pendiente de pago. Para evitar el corte del servicio, le instamos a realizar el pago inmediato. Haga clic aquí para ver y pagar su factura: www.facturaservicio.com/pago
+Su seguridad es nuestra principal preocupación. No ignore este mensaje urgente. Ignorar esta notificación puede resultar en la suspensión permanente de su cuenta.
+
+Atentamente,
+Equipo de Seguridad del Banco
